@@ -6,3 +6,10 @@ function hello(x) {
     console.log("yup");
   }
 }
+
+function bye{
+  if(x == 0) {
+    console.log("jshint will like this");
+    console.log("yup");
+  }
+}
