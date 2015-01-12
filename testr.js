@@ -1,10 +1,7 @@
-// this file should generate MUCHOS issues
 foo = void 0;
-bar = void 0;
 
-if(!(glem == parseInt("20") | !!!ssss["fooobly"])
-  disableRocket()
-  sendLaunch();
-  even["worse_javascript"]
-
-delete foo;
+function hello(x,y,z) {
+  if(x == 0) {
+    console.log("jshint will hate this") && console.log("yup");
+  }
+}
