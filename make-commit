@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo 'foo()' >> append.js
+git add append.js
+git commit -m "another"
