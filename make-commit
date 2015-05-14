@@ -1,5 +1,6 @@
 #!/bin/bash
 
 echo 'foo()' >> append.js
-git add append.js
+echo 'foo()' >> "added-$(date +%s)"
+git add .
 git commit -m "another"
