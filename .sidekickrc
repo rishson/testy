@@ -1,12 +1,16 @@
 {
     "exclude": [],
     "languages": {
-        "js": [
-            "js-todos",
-            "jshint"
-        ],
-        "coffee": [
-            "coffeelint"
-        ]
+        "js": {
+            "analysers": [
+                "js-todos",
+                "jshint"
+            ]
+        },
+        "coffee": {
+            "analysers": [
+                "coffeelint"
+            ]
+        }
     }
 }
