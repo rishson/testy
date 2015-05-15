@@ -11,6 +11,11 @@
             "analysers": [
                 "coffeelint"
             ]
+        },
+        "rb": {
+            "analysers": [
+                "rubocop"
+            ]
         }
     }
 }
