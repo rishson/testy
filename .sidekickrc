@@ -3,19 +3,10 @@
     "languages": {
         "js": {
             "analysers": [
-                "js-todos",
-                "jshint"
+                "jscs",
+                "eshint"
             ]
         },
-        "coffee": {
-            "analysers": [
-                "coffeelint"
-            ]
-        },
-        "rb": {
-            "analysers": [
-                "rubocop"
-            ]
-        }
+        "": {}
     }
 }
