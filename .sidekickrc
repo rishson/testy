@@ -1,13 +1,15 @@
 {
     "exclude": [
-      "ignored.js"
+        "test"
     ],
     "languages": {
         "js": {
             "analysers": [
+                "js-todos",
                 "jscs",
-                "eshint"
+                "eslint"
             ]
-        }
+        },
+        "": {}
     }
 }
