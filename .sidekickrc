@@ -1,4 +1,7 @@
-    "exclude": [],
+{
+    "exclude": [
+      "ignored.js"
+    ],
     "languages": {
         "js": {
             "analysers": [
