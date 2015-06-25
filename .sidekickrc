@@ -7,7 +7,7 @@
             "analysers": [
                 "js-todos",
                 "jscs",
-                "eslint"
+                "eshint"
             ]
         },
         "": {}
