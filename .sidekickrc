@@ -6,6 +6,7 @@
         "js": {
             "analysers": [
                 "js-todos",
+                "jscs",
                 "jshint"
             ]
         }
