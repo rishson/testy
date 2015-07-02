@@ -1,5 +1,5 @@
 foo();
 
 function p(x) { 
-  x + y && z();
+  var z = x + y && z();
 }
