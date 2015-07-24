@@ -1,3 +1,4 @@
-foo(); function p(x) {
+foo(); 
+function p(x) {
   x + y && z() 
 }
