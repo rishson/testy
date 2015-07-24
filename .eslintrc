@@ -1,0 +1,30 @@
+{
+	"env": {
+		"browser": true,
+    "node": true,
+	},
+	"globals": {
+		"angular": false,
+		"_": false,
+		"d3": false,
+    "$": false,
+	},
+	"rules": {
+		"curly": false,
+		"no-mixed-spaces-and-tabs": false,
+		"comma-spacing": false,
+		"comma-dangle": false,
+		"no-trailing-spaces": false,
+		"semi": false,
+		"no-use-before-define": false,
+		"new-parens": false, 
+		"no-underscore-dangle": false,
+		"quotes": false,
+		"no-multi-spaces": false,
+		"key-spacing": false,
+		"no-unused-expressions": false,
+		"new-cap": false,
+		"eqeqeq": false,
+		"no-extra-semi": false,
+	}
+}
