@@ -27,6 +27,6 @@
     },
 
     "excludeFiles": [
-        "test/data/**"
+        "*.js"
     ]
 }
