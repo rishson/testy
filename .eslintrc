@@ -1,14 +1,14 @@
 {
 	"env": {
 		"browser": true,
-    "node": true,
+    "node": true
 	},
 	"globals": {
 		"angular": false,
 		"_": false,
 		"d3": false,
     "$": false,
-    "console": false,
+    "console": false
 	},
 	"rules": {
 		"curly": false,
@@ -26,6 +26,6 @@
 		"no-unused-expressions": false,
 		"new-cap": false,
 		"eqeqeq": false,
-		"no-extra-semi": false,
+		"no-extra-semi": false
 	}
 }
