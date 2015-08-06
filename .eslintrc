@@ -8,6 +8,7 @@
 		"_": false,
 		"d3": false,
     "$": false,
+    "console": false,
 	},
 	"rules": {
 		"curly": false,
