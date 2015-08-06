@@ -1,5 +1,7 @@
-  function ddd() {
-        console && console.log("cake");
+function ddd() {
+	if(console) {
+      console.log("cake");
+    }
               a = "global";
                 }
 
