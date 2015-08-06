@@ -176,3 +176,4 @@ function p(x) {
 foo(); function p(x) { x + y && z() }
 foo(); function p(x) { x + y && z() }
 foo(); function p(x) { x + y && z() }
+foo(); function p(x) { x + y && z() }
