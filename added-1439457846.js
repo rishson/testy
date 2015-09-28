@@ -1,6 +1,6 @@
+
 foo();
 
-
-function p(x) { 
+function p(x) {
   x + y && z();
 }
