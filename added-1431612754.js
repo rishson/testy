@@ -3,6 +3,6 @@ foo()
 foo()
 foo()
 
-  while(x) {
-    y();
-  }
+while (x) {
+  y();
+}
