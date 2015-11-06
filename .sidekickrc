@@ -7,6 +7,11 @@
                 "jscs",
                 "js-todos"
             ]
+        },
+        "coffee": {
+            "analysers": [
+                "coffeelint"
+            ]
         }
     }
 }
