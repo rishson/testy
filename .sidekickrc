@@ -4,8 +4,8 @@
         "js": {
             "analysers": [
                 "eslint",
-                "jscs",
-                "js-todos"
+                "js-todos",
+                "jscs"
             ]
         }
     }
