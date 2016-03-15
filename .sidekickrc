@@ -2,16 +2,10 @@
     "exclude": [],
     "languages": [
         {
-            "js": [
-                "sidekick-eslint",
-                "sidekick-js-todos",
-                "sidekick-jscs"
-            ]
+            "0": []
         },
         {
-            "coffee": [
-                "sidekick-coffeelint"
-            ]
+            "1": []
         }
     ]
 }
