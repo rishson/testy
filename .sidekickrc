@@ -1,17 +1,17 @@
 {
     "exclude": [],
-    "languages": {
-        "js": {
-            "analysers": [
-                "eslint",
-                "js-todos",
-                "jscs"
+    "languages": [
+        {
+            "js": [
+                "sidekick-eslint",
+                "sidekick-js-todos",
+                "sidekick-jscs"
             ]
         },
-        "coffee": {
-            "analysers": [
-                "coffeelint"
+        {
+            "coffee": [
+                "sidekick-coffeelint"
             ]
         }
-    }
+    ]
 }
