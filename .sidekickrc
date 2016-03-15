@@ -1,11 +1,11 @@
 {
     "exclude": [],
     "languages": [
-        {
-            "0": []
-        },
-        {
-            "1": []
-        }
+        [
+            "sidekick-"
+        ],
+        [
+            "sidekick-"
+        ]
     ]
 }
