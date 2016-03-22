@@ -3,14 +3,14 @@
     "languages": [
         {
             "js": [
-                "sidekick-js-todos",
-                "sidekick-jscs",
-                "sidekick-eslint"
+                "js-todos",
+                "jscs",
+                "eslint"
             ]
         },
         {
             "cs": [
-                "sidekick-coffeelint"
+                "coffeelint"
             ]
         },
         {
