@@ -1,27 +1,24 @@
 {
-    "exclude": [],
-    "languages": [
-        {
-            "js": [
+    "exclude": [
+	"node_modules"
+    ],
+    "languages": {
+        "js": {
+            "analysers": [
                 "js-todos",
                 "jscs",
                 "eslint"
             ]
         },
-        {
-            "cs": [
-                "coffeelint"
-            ]
-        },
-        {
-            "json": [
-                "sidekick-david"
-            ]
-        },
-        {
-            "all": [
-                "sidekick-security"
-            ]
-        }
-    ]
+	"json": {
+		"analysers": [
+		"sidekick-david"
+		]
+	},
+	"all": {
+		"analysers": [
+		"sidekick-security"
+		]
+	}
+    }
 }
